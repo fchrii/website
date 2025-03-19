@@ -98,7 +98,7 @@ export default function DomainChangePage() {
             <i className="fa-solid fa-flag text-xl"></i>
           </Link>
           <Link
-            href="mailtomailto:akunclasstjkt1@gmail.com"
+            href="mailto:akunclasstjkt1@gmail.com"
             className="text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 transition-colors duration-300"
           >
             <i className="fa-solid fa-envelope text-xl"></i>
